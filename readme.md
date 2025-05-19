@@ -117,6 +117,8 @@ instance = 'automaticlicenseplatedetector'
    - Click "Insert Video" to select a video file (`.mp4`).
    - Click "Execute" to start the detection and matching process.
    - The application will process the video, detect and recognize license plates, match them against the CSV, and display/save results.
+     
+![C2](https://github.com/user-attachments/assets/245e8486-d39e-40ce-9d12-ba296702f300)
 
 3. **Database Cleanup:**
    - To clear the database tables, run:
@@ -130,6 +132,8 @@ instance = 'automaticlicenseplatedetector'
 
 - Processed video with overlays is saved as `output/out.mp4`.
 - Matched license plates are saved in `output/stolen_cars.csv`.
+  
+![C1](https://github.com/user-attachments/assets/9a1c5ecd-9b58-4327-bc50-d5d2ecf75c42)
 
 ---
 
